@@ -1,0 +1,14 @@
+# Datasets
+data/
+
+# Model weights
+*.bin
+*.pt
+*.pth
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
